@@ -1,0 +1,6 @@
+{
+  "name": "71-Maktab — Ta'lim va Kitoblar Portali",
+  "description": "71-sonli umumiy o'rta ta'lim maktabining zamonaviy ta'lim portali va Kitoblar YouTube qidiruv tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
